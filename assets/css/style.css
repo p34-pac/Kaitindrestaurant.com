@@ -156,6 +156,7 @@ h5{
     display: flex;
     justify-content: space-between;
 }
+
 .filter{
     font-size: 15px;
     color: #676775;
@@ -179,10 +180,18 @@ h5{
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    gap: 5px;
     justify-content: flex-start;
     gap: 20px;
     height: fit-content;
+    gap: 10px;
+}
+
+#sub-heading a{
+    width: fit-content;
+    border:2px dashed #676775;
+    padding: 5px;
+    border-radius: 5px;
+    color: black;
 }
 #sub-heading a:hover{
     font-size: large;

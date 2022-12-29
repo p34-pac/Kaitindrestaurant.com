@@ -136,7 +136,7 @@ h5{
 }
 .caro-items img{
     width: 100%;
-    aspect-ratio: 16/9;
+    height: 40vw;
     object-fit: cover;
     object-position: 0px 1px;
 

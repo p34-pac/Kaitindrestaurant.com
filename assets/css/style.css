@@ -181,7 +181,6 @@ h5{
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
-    gap: 20px;
     height: fit-content;
     gap: 10px;
 }

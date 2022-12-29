@@ -260,7 +260,7 @@ h5{
     width: 100%;
     flex-wrap: wrap;
     height: fit-content;
-    gap: 30px;
+    gap: 40px;
     padding-bottom: 10px;
     border-bottom: 2px solid rgba(83, 82, 79, 0.404);
 }
